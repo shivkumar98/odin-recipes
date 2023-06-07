@@ -63,3 +63,34 @@ $ touch index.html
     </body>
 </html>
 ```
+
+* I make a new directory `recipes` and create the first recipe page:
+
+```sh
+$ mkdir recipes
+$ cd recipes/
+$ touch lasagna.html
+$ code lasagna.html
+```
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Lasagna Recipe</title>
+    </head>
+    <body>
+        <h1>Lasagna</h1>
+    </body>
+</html>
+```
+
+* I add a link to the index.html file:
+
+```html
+<body>
+    <h1>Odin Recipes</h1>
+    <a href="recipes/lasagna.html">Lasagna</a>
+</body>
+```
