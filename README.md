@@ -35,12 +35,12 @@
 
 ## 👨‍💻 Assignment Notes 👨‍💻
 
-* I create a new repo on github:
-
-![](2023-06-07-14-29-38.png)
+* I create a new repo on github
 
 * I copy the SSH link: git@github.com:shivkumar98/odin-recipes.git
 
 ```sh
 $ git clone git@github.com:shivkumar98/odin-recipes.git
 ```
+
+* I create the `index.html` file in the `odin-recipes` directory
