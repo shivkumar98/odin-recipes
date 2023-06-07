@@ -43,4 +43,23 @@
 $ git clone git@github.com:shivkumar98/odin-recipes.git
 ```
 
-* I create the `index.html` file in the `odin-recipes` directory
+* I create the `index.html` file in the `odin-recipes` directory:
+
+```sh
+$ touch index.html
+```
+
+* I open this file in VS Code and create the boilerplate and heading:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>My Recipe Page</title>
+    </head>
+    <body>
+        <h1>Odin Recipes</h1>
+    </body>
+</html>
+```
