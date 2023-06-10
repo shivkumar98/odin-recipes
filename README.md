@@ -102,3 +102,17 @@ $ code lasagna.html
 * I create another recipe file (`sandwich-toastie.html`) which looks like:
 
 <img src="screenshots/2023-06-10-15-11-12.png" width="400px">
+
+* I update the image for the toastie and update the index page so its easier to use!
+
+* I now want to publish my website using GitHub pages. In order to do this, the main HTML file should be named as `index.html`.
+
+* I go to the Setting section of my repo on GitHub, go to the Pages tab and then set the branch to `main` and click save:
+
+<img src="screenshots/2023-06-10-15-30-03.png" width="800px">
+
+* I can visit my publish website using: [https://shivkumar98.github.io/odin-recipes/](https://shivkumar98.github.io/odin-recipes/)
+
+* My website works!:
+
+<img src="screenshots/2023-06-10-15-33-53.png" width="400px">
