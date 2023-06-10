@@ -1,5 +1,9 @@
 # odin-recipes
 
+## ✅ Solution + Preview ✅
+
+* You can preview the website for this project here: https://shivkumar98.github.io/odin-recipes/
+
 ## 📜 Assignment 📜
 
 * Create a new repo for this project on GitHub called `odin-recipes`
