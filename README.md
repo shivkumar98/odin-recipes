@@ -94,3 +94,7 @@ $ code lasagna.html
     <a href="recipes/lasagna.html">Lasagna</a>
 </body>
 ```
+
+* I update the `lasagna.html` file to include the image, ingredients and steps. The HTML now looks like:
+
+<img src="screenshots/2023-06-10-14-59-30.png" width="400px">
