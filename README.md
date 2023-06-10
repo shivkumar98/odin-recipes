@@ -98,3 +98,7 @@ $ code lasagna.html
 * I update the `lasagna.html` file to include the image, ingredients and steps. The HTML now looks like:
 
 <img src="screenshots/2023-06-10-14-59-30.png" width="400px">
+
+* I create another recipe file (`sandwich-toastie.html`) which looks like:
+
+<img src="screenshots/2023-06-10-15-11-12.png" width="400px">
