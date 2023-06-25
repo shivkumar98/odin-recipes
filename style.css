@@ -1,3 +1,21 @@
 * {
-    font-family:'Segoe UI', Tahoma, sans-serif;
+    font-family:'Segoe UI', Tahoma, sans-serif;background-color: rgb(220, 168, 239);}
+
+body {
+    text-align: center;
+}
+
+a {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(62, 62, 62);
+}
+
+h1 {
+    background-color: rgb(151, 98, 201);
+
+}
+
+h2 {
+    background-color: rgb(119, 119, 240);
 }
